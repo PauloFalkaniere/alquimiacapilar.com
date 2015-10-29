@@ -1,16 +1,13 @@
-<div class="container">
-    <div class="row">
-        <div class="panel panel-default">
-            <div class="panel-body">
-                <h3>Contato</h3>
-                <p><h4>Desde já agradeçemos o contato</h4></p>
-                <ul>
-                    <li><i class="glyphicon glyphicon-phone"></i> Leandro - <a href="tel:+553183507880">(31) 8350-7880</a></li>
-                    <li><i class="glyphicon glyphicon-envelope"></i> <a href="mailto:contato@alquimiacapilar.com">contato@alquimiacapilar.com</a></li>
-                </ul>
-            </div>
-        </div>
+<div class="panel panel-default">
+    <div class="panel-body">
+        <h3>Contato</h3>
+        <p><h4>Desde já agradeçemos o contato</h4></p>
+        <ul>
+            <li><i class="glyphicon glyphicon-phone"></i> Leandro - <a href="tel:+553183507880">(31) 8350-7880</a></li>
+            <li><i class="glyphicon glyphicon-envelope"></i> <a href="mailto:contato@alquimiacapilar.com">contato@alquimiacapilar.com</a></li>
+        </ul>
     </div>
+</div>
 <!--            
 <div class="row" style="text-align: center">
 <form role="form" class="form-horizontal" method="post" action="contato.php" >
@@ -72,4 +69,3 @@
 //                  }
 //              }
 ?>
-</div>
