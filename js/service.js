@@ -17,4 +17,8 @@ alquimia.config(function($stateProvider, $urlRouterProvider) {
       url: "/contato",
       templateUrl: "views/contato.php"
     })
+    .state('sobre', {
+      url: '/sobre',
+      templateUrl: "views/sobre.html"
+    })
 });
