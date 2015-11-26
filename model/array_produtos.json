@@ -1,34 +1,107 @@
-{
-	"1": {
-		"name": "botox",
-		
+[
+	{
+		"id": "1",
+		"name": "Plástica dos Fios",
+		"helpText": "Três passos",
+		"shortDescription": "A linha PLÁSTICA DOS FIOS possui um complexo equilibrado de proteínas e aminoácidos essenciais, que trabalha em sinergia com os óleos de Argan e Macadâmia, selagem da cutícula, realinhamento e hidratação máxima dos cabelos.",
+		"description": ["Todas as mulheres querem cabelos hidratados e sem frizz, Para tanto indicamos a Plastica dos Fios Alquimia que irá deixar os fios acetinados e completamente hidratados. A Plástica dos fios e  promove o condicionamento desejado dos fios e o frizz eliminado.", "A linha PLÁSTICA DOS FIOS possui um complexo equilibrado de proteínas e aminoácidos essenciais, que trabalha em sinergia com os óleos de Argan e Macadâmia, selagem da cutícula,  realinhamento e hidratação máxima dos cabelos. Os fios tornam-se macios, brilhantes e naturalmente flexíveis, através da revitalização e selagem biológica da fibra capilar, com ação anti-ageingreparadora."],
+		"image": "plastica_fios.jpg",
+		"width": "140",
+		"specs": ["Shampoo", "Mascara Teia","Óleo Bifásico"]
 	},
-
-	"2":{
-		"name": "day_by_day",
-		},
-	"3":{
-		"name": "impact_pos_quimica",
-		},
-	"4":{
-		"name": "KERAVIP_cauterizacao",
-		},
-	"5":{
-		"name": "mascara_blond",
-		},
-	"6":{
-		"name": "monovim",
-		},
-	"7":{
-		"name": "oil_goji_berry",
-		},
-	"8":{
-		"name": "ouro_reduction",
-		},
-	"9":{
-		"name": "plastica_fios",
-		},
-	"10":{
-		"name": "shampoo_nutri_repair",
-		},
-}
+	{
+		"id": "2",
+		"name": "Monovin pro A",
+		"helpText": "",
+		"shortDescription": " É um complexo condicionante, rico em elementos essenciais à flexibilidade e maciez da fibra capilar para proporcionar aos fios hidratação imediata e brilho Anti-queda / Crescimento / Força Beleza / Cabelos saudáveis",
+		"description": ["Monovin pro A é um complexo condicionante, rico em elementos essenciais. À flexibilidade e maciez da fibra capilar para proporcionar aos fios hidrataçãoImediata e brilho. Esta ação vitalizante transforma os cabelos, permitindo leveza e nutrição aos fios, deixando-os saudáveis e naturais. Elimina pontas Duplas  e fornece proteção térmica, favorecendo a fixação dos ativos selantes à Estrutura capilar, proporcionando toque sedoso e agradável."],
+		"image": "monovim.jpg",
+		"width": "140",
+		"specs": ["Anti-queda", "Crescimento","Força","Beleza","Cabelos saudáveis"]
+	},
+	{
+		"id": "3",
+		"name": "Ouro Reduction",
+		"helpText": "",
+		"shortDescription": "Permite  mudança da estrutura do cabelo ao reduzir volume,diminuir o frizz, proporcionar maciez e brilho intenso. O sinergismo entre osaminoácidos, óleos nobres, silicones e ativos de ultima geração favorece a afinidadepela fibra capilar, resultando em fios superlisos, nutridos, com cutículas alinhadas.",
+		"description": ["Ouro Reduction permite  mudança da estrutura do cabelo ao reduzir volume, diminuir o frizz, proporcionar maciez e brilho intenso. O sinergismo entre os aminoácidos, óleos nobres, silicones e ativos de ultima geração favorece a afinidade pela fibra capilar, resultando em fios super lisos, nutridos, com cutículas alinhadas. Esta nova tecnologia a base de aminoácidos é conhecida por sua interação com a fibra capilar para produzir efeitos benéficos tais como fortalecimento dos fios e reparação de danos na superfície."],
+		"image": "ouro_reduction.jpg",
+		"width": "140",
+		"specs": ["Progressiva  sem formol"]
+	},
+	{
+		"id": "4",
+		"name": "Kit day by day",
+		"helpText": "",
+		"shortDescription": "É composto por um Shampoo de limpeza profunda  Anti-resíduo. Mascara repositora, proporciona tratamento de hidratação profunda que reúne ativos com grande afinidade pela fibra capilar. O Condicionador também contem Goji Berry, ele é um complexo condicionante.",
+		"description": ["É composto por um Shampoo  de limpeza profunda  Anti-resíduo que contem Goji Berry. Promove higienização adequada dos cabelos, através de ativos eficientes e suaves.", "Mascara repositora,  proporciona tratamento de hidratação profunda que reúne ativos com grande afinidade pela fibra capilar, restaurando cabelos danificados e fragilizados. Os cabelos tornam-se hidratados, saudáveis.", "O Condicionador também contem Goji Berry,  ele é um complexo condicionante, rico em elementos essenciais à flexibilidade e maciez da fibra capilar para proporcionar aos fios hidratação imediata e brilho.Esta ação vitalizante transforma os cabelos, permitindo leveza e nutrição aos fios, deixando-os saudáveis e naturais. Elimina pontas duplas e fornece proteção térmica, favorecendo a fixação dos ativos selantes à estrutura capilar, proporcionando toque sedoso e agradável."],
+		"image": "day_by_day.jpg",
+		"width": "180"
+	},
+	{
+		"id": "5",
+		"name": "Botox Alquimia",
+		"helpText": "",
+		"shortDescription": "Possui um complexo equilibrado de proteínas e aminoácidos  essenciais,que trabalha em sinergia com óleos de Argan e Macadâmia, promovendo  redução imediata de volume, realinhamento e hidratação máxima dos cabelos.",
+		"description": ["Botox Alquimia possui um complexo equilibrado de proteínas e aminoácidos  essenciais,que trabalha em sinergia com óleos de Argan e Macadâmia, promovendo  redução imediata de volume, realinhamento e hidratação máxima dos cabelos. Os fios tornam-se macios, brilhantes e naturalmente flexíveis. Através da revitalização e selagem biológica da fibra capilar com ação anti-reparadora."],
+		"image": "botox.jpg",
+		"width": "160"
+	},
+	{
+		"id": "6",
+		"name": "OIL Goji Berry",
+		"helpText": "",
+		"shortDescription": "É um complexo  concentrado de óleos botânicos  riquíssimos e umectantes que trata os cabelos secos, sem vida e danificados por químicas restaurando  a elasticidade  e saúde dos fios.",
+		"description": ["OIL Goji Berry  é um complexo  concentrado de óleos botânicos  riquíssimos e umectantes que trata os cabelos secos, sem vida e danificados por químicas restaurando  a elasticidade  e saúde dos fios. Esta combinação de óleos  altamente nutritivos  permite diminuição dos ressecamentos  e do frizz deixando os cabelos com aspecto extremamente saudável, toque aveludado e brilho intenso."],
+		"image": "oil_goji_berry.jpg",
+		"width": "75"
+	},
+	{
+		"id": "7",
+		"name": "A Mascara Blond",
+		"helpText": "",
+		"shortDescription": "Possui em sua formulação pigmentos que  matizam o alaranjado indesejável dos cabelos loiros, agindo diretamente na neutralização destes tons. Ativos altamente  hidratantes  tratam a estrutura capilar, devolvendo aos fios naturalidade e brilho",
+		"description": ["A Mascara Blond Alquimia  possui em sua formulação pigmentos que matizam o alaranjado indesejável dos cabelos loiros, agindo diretamente na neutralização destes tons.", "Ativos altamente  hidratantes  tratam a estrutura capilar, devolvendo aos fios naturalidade e brilho, além de contribuir para a manutenção da cor. Pode  ser usado também em cabelos grisalhos  para criar  efeito cinza platinado, realçando-os, através  de uma maior luminosidade."],
+		"image": "mascara_blond.jpg",
+		"width": "160"
+	},
+	{
+		"id": "8",
+		"name": "KERAVIP Cauterização",
+		"helpText": "",
+		"shortDescription": "Shampoo Limpeza, Nutritiva, Queratina  Animal, Defrizante Bio Restore. É um complexo  de reconstrução térmica para recuperação imediata de fios  desvitalizados, danificados e quebrados, através da reposição de elementos  essenciais à saúde da fibra capilar.",
+		"description": ["KERAVIP Cauterização  é um complexo  de reconstrução térmica para recuperação imediata de fios desvitalizados, danificados e quebrados, através da reposição de elementos essenciais à saúde da fibra capilar. Uma Carga equilibrada de queratina, aminoácidos e silicones aderem-se às estruturas capilares transformando fios danificados e porosos em cabelos macios , alinhados e saudáveis."],
+		"image": "KERAVIP_cauterizacao.jpg",
+		"width": "160",
+		"specs": ["Shampoo Limpeza Nutritiva","Queratina  Animal", "Defrizante Bio Restore"]
+	},
+	{
+		"id": "9",
+		"name": "Shampoo Nutri Repair",
+		"helpText": "Shampoo de lavatório 5 litros",
+		"shortDescription": "permite um tratamento inovador que restaura a queratina perdida pelos cabelos fragilizados e quimicamente modificados, proporcionando suavidade, maciez e brilho.",
+		"description": ["SHAMPOO NUTRI REPAIR permite um tratamento inovador que restaura a queratina perdida pelos cabelos fragilizados e quimicamente modificados, proporcionando suavidade, maciez e brilho. Tensoativos suaves e eficientes promovem a limpeza dos fios , através da Espuma cremosa e abundante, preservando sua integridade. O óleo de Argan nutre e repara as fibras danificadas, fortalecendo sua estrutura."],
+		"image": "shampoo_nutri_repair.jpg",
+		"width": "140",
+		"specs": ["Shampoo de lavatório 5 litros"]
+	},
+	{
+		"id": "10",
+		"name": "IMPACT – PÓS QUIMICA",
+		"helpText": "É uma linha de manutenção para todos os tratamentos ALQUIMIA",
+		"shortDescription": "É um complexo inovador que proporciona à fibra capilar alta carga de queratina, vitaminas e aminoácidos , restaurando a flexibilidade dos cabelos.",
+		"description": ["IMPACT – PÓS QUIMICA  é um complexo inovador que proporciona á fibra capilar alta carga de queratina, vitaminas e aminoácidos , restaurando a flexibilidade dos cabelos. Recupera fios danificados, porosos e quebradiços, tornando-os macios e saudáveis. Permite reposição de massa capilar, através dos elementos necessários á nutrição e  ao fortalecimento dos cabelos. Silicones de alto brilho proporcionando luminosidade e beleza naturais."],
+		"image": "impact_pos_quimica.jpg",
+		"width": "220"
+	},
+	{
+		"id": "11",
+		"name": "IMPACTO – PÓS QUIMICA",
+		"helpText": "",
+		"shortDescription": "Hidratação, Reposição de massa, Maciez e Flexibilidade, Ojon e Argam, Estilo Teia/ 1Kilo. Proporciona tratamento de hidratação  profunda, restaurando cabelos danificados e fragilizados.",
+		"description": ["Proporciona tratamento de hidratação profunda Que reúne ativos com grande afinidade para a fibra capilar, restaurando cabelos danificados e fragilizados.", "Agentes nutritivos e emolientes exercem controle intensivo sobre a fibra capilar, Repondo a massa perdida por químicas e uso  constante de chapinhas e secadores, fortalecendo sua estrutura. Os cabelos tornam-se hidratados, Saudáveis e naturais, com flexibilidade e brilho."],
+		"image": "impacto_pos_quimica.jpg",
+		"width": "140",
+		"specs": ["Hidratação", "Reposição de massa", "Maciez e Flexibilidade", "Ojon e Argam", "Estilo Teia/ 1K"]
+	}
+]
